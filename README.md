@@ -28,4 +28,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-<iframe height=350 width=800 src="demo.gif">
+![image](https://github.com/naughtybabyfirst/vue-demo-tamplate/blob/master/demo.gif)
+
