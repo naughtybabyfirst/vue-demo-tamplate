@@ -1,4 +1,5 @@
 /*全局样式表*/
+/*在main.js文件中 导入全局样式表 则生效*/
 
 html, body, #app {
   height: 100%;
@@ -17,4 +18,8 @@ html, body, #app {
 .el-table {
     margin-top: 15px;
     font-size: 12px;
+}
+
+.el-steps {
+   margin: 20px 0;
 }
