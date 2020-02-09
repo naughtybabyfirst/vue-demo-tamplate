@@ -30,7 +30,7 @@
             </el-form-item>
           </el-tab-pane>
           <el-tab-pane label="步骤 2" name="1">
-            
+
           </el-tab-pane>
           <el-tab-pane label="步骤 3" name="2">
             <el-button style="margin-top: 12px;" @click="final">完成</el-button>
